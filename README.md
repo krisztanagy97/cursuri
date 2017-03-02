@@ -1,2 +1,3 @@
 # cursuri
 random
+random
